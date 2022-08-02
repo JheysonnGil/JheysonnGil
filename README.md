@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Jheysonn Gil</h1>
 
 <h3>I am a 31-year-old Colombian who is passionate about the development of applications and web pages, focused on teamwork and work efficiency. I am currently a graduate of the Henry bootcamp where I acquired various technical and soft skills for professional development within this field of work.</h3>
@@ -26,12 +24,6 @@
   <img src='https://img.shields.io/badge/-Railway-561651?logo=railway&logoColor=ffffff'>
   <img src='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
 </p>
-
-<h2 align="center">My Proyects</h2>
-<p>
-  
-</p>
-
 
 <!--
 **rennemetter/rennemetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
