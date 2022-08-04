@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jheysonn Gil</h1>
 
-<h4 align="justify">I am a 31 years old Colombian passionate about developing applications and web pages, focused on teamwork and work efficiency. I am currently a graduate of the Henry bootcamp where I acquired various technical skills and also improved my soft skills for my professional development.</h4>
+<h4 align="justify">A 31 years old Colombian passionate about developing applications and web pages, focused on teamwork and work efficiency. I am currently a graduate of the Henry bootcamp where I acquired various technical skills and also improved my soft skills for my professional development.</h4>
 <h4 align="justify">In each project in which I cooperate with a team, I usually try to create an environment of equality with my colleagues, I also implement help spaces when someone from the team has difficulties and later teach the resolution of said difficulty. I really like teamwork and job integration, active and passive communication, in addition to promoting new ideas and facing new challenges to grow as a professional and above all as a person.</h4>
 
 <h3 align="center">📞 Would you like to contact with me? 📞</h3>
