@@ -1,3 +1,5 @@
+<img src='./src/JS-by-SoyHorizonte.gif'>
+
 <h1 align="center">Hi 👋, I'm Jheysonn Gil</h1>
 
 <h4 align="justify">I am a 31 years old Colombian passionate about developing applications and web pages, focused on teamwork and work efficiency. I am currently a graduate of the Henry bootcamp where I acquired various technical skills and also improved my soft skills for my professional development.</h4>
