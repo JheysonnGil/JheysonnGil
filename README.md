@@ -94,12 +94,6 @@
 
 <h4 align="justify">The presented project arises from the need to provide a solution to have a better stock control together with the sales of musical instruments for a distributor of the same, and also enter the company into the virtual market, allowing greater comfort for the purchase and sale of instruments. Having a comfortable and useful administrator panel from the web, we also provide great comfort for the client by having a mobile application in which to review the available products along with offers and make purchases with the simple movement of the finger. Stripe was implemented as a means to facilitate payments.</h4>
 
-<h3 align="center">🎥 Video Presentation 🎥</h3>
-
-
-
-<!-- insertar video -->
-
 <h3 align="center">📷 Some Images 📷</h3>
 
 <div align="center">
@@ -113,6 +107,10 @@
 <div align="center">
 <a href='https://github.com/rennemetter/ScriptMusic'>📔 Repository 📔</a> <a href='https://mega.nz/file/55A1kLpB#qRea9x096wFu1YwWxxHtmXYUK0-0ZwYgGgCTxb3fYwg'>📲 Download App 📲</a>
 </div>
+
+<h3 align="center">🎥 Video Presentation 🎥</h3>
+
+[![Alt text](https://res.cloudinary.com/dzonjuriq/image/upload/v1659502020/script_music_img/ScriptMusic_bpzk0i.png)](https://youtu.be/Og1z6ShsgMQ)
 
 <!--
 **rennemetter/rennemetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
