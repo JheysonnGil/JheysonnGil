@@ -5,10 +5,6 @@
 <h4 align="justify">A 31 years old Colombian passionate about developing applications and web pages, focused on teamwork and work efficiency. I am currently a graduate of the Henry bootcamp where I acquired various technical skills and also improved my soft skills for my professional development.</h4>
 <h4 align="justify">In each project in which I cooperate with a team, I usually try to create an environment of equality with my colleagues, I also implement help spaces when someone from the team has difficulties and later teach the resolution of said difficulty. I really like teamwork and job integration, active and passive communication, in addition to promoting new ideas and facing new challenges to grow as a professional and above all as a person.</h4>
 
-<h3 align="center">📞 Would you like to contact with me? 📞</h3>
-<h4 align="center">Email 📧: <a href="mailto:jheysonnm@gmail.com">jheysonnm@gmail.com</a></h4>
-<h4 align="center">LinkedIn ☑️: <a href='https://www.linkedin.com/in/jheysonn-gil-646672237/' target='_blank'>jheysonn-gil-646672237</a></h4>
-
 <h3 align="center">⚡ Languages and Tools ⚡</h3>
 <p align="center">
   <img src ="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
@@ -30,6 +26,12 @@
   <img src ='https://img.shields.io/badge/-MongoDB-11A513?logo=mongodb&logoColor=FFF'>
   <img src ='https://img.shields.io/badge/-Vercel-1E1B1D?logo=vercel'>
 </p>
+
+<br/>
+
+<h3 align="center">📞 Would you like to contact with me? 📞</h3>
+<h4 align="center">Email 📧: <a href="mailto:jheysonnm@gmail.com">jheysonnm@gmail.com</a></h4>
+<h4 align="center">LinkedIn ☑️: <a href='https://www.linkedin.com/in/jheysonn-gil-646672237/' target='_blank'>jheysonn-gil-646672237</a></h4>
 
 <br/>
 
